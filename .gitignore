@@ -1,0 +1,6 @@
+results
+.vscode/*
+*.txt
+main
+gen
+gen.py
